@@ -1,0 +1,47 @@
+soal 1:
+Titik A dan B berjarak 1000 km terhubung jalan yg lurus. 
+Jika mobil Andy begerak pada 08:00 WIB dari titik A menuju titik B dengan kecepatan 75 km.jam. 
+Pada jam yang sama, mobil Budi berangkat dari B ke A dengan kecepatan 50 km/jam. 
+Gunakan loop untuk menghitung jam berapa tepatnya mobil Andy dan mobil Budi berpapasan?
+
+
+soal 2:
+Buatlah code dalam C untuk menggambar pola seperti di bawah ini (harus menggunakan loop):
+
+ 
+
+* * * * *
+
+* * * * * *
+
+* * * * * * *
+
+* * * * * * * *
+
+* * * * * * *
+
+* * * * * *
+
+* * * * *
+
+soal 3
+Satuan panjang diberikan dalam meter (m) dan sentimeter (cm), sebagai contoh 3m 75cm. Anda diberikan dua pasang bilangan bulat yang mewakili dua panjang. Tulislah program untuk meminta dua panjang dan mencetak jumlahnya sehingga nilai sentimeter kurang dari 100. Misalnya, jumlah dari 3m 25cm dan 2m 15cm adalah 5m 40cm, tetapi jumlah dari 3m 75cm dan 5m 50cm adalah 9m 25cm.
+
+ 
+
+Asumsikan program bekerja sebagai berikut:
+
+ 
+
+Masukkan nilai panjang untuk m dan cm: 3 75
+
+Masukkan nilai panjang untuk m dan cm: 5 50
+
+Jumlahnya 9m 25cm
+
+soal 4:
+Diketahui jam kerja dan tarif (jumlah yang dibayarkan per jam) dan kita akan menghitung gaji reguler, upah lembur, dan gaji kotor seseorang berdasarkan hal-hal berikut:
+
+Jika jam kerja kurang dari atau sama dengan 40, gaji reguler dihitung dengan mengalikan jam kerja dengan tarif gaji, dan upah lembur adalah 0.
+Jika jam kerja lebih besar dari 40, gaji reguler dihitung dengan mengalikan 40 dengan tarif gaji, dan upah lembur dihitung dengan mengalikan jam lebih dari 40 dengan tarif gaji dengan Rp 50,-. Gaji kotor dihitung dengan menambahkan gaji reguler dan upah lembur.
+Misalnya, jika jam kerja adalah 36 dan tarifnya Rp 100.000,- per jam, maka gaji regulernya adalah Rp 3.600.000,- (36 x 100.000) dan upah lembur adalah Rp 0. Gaji kotor adalah Rp 3.600.000,-. Dan jika jam kerjanya 50 dan tarifnya Rp 10.000,- per jam, maka gaji regulernya adalah Rp 400.000,- (40 x 10.000) dan upah lembur adalah Rp 5.000.000,- (jam tambahan 10 x 10.000 x 50). Gaji kotor adalah Rp 5.400.000,- (Rp 400.000,- + Rp 5.000.000,-).
